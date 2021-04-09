@@ -10,7 +10,7 @@ This server is to be used in conjunction with notes-API-app (https://martinkurac
 
 2. CD into newly created ``notes-api-server`` folder
 
-3. Run ``npm start``
+3. When inside that folder, run ``npm start``
 
 4. Now follow this link to the App to start using it
 ``https://martinkuracka.github.io/notes-API-app``
