@@ -5,12 +5,13 @@ This server is to be used in conjunction with notes-API-app (https://martinkurac
 # Install istruction
 
 1. Clone this repository into Your new project folder using:
-
    ``git clone https://github.com/MartinKuracka/notes-api-server.git``
 
-2. CD into newly created ``notes-api-server`` folder
+2. Get into newly created folder
+   ``cd notes-api-server`` 
 
-3. When inside that folder, run ``npm start``
+3. When inside that folder, run 
+   ``npm start``
 
 4. Now follow this link to the App to start using it
 ``https://martinkuracka.github.io/notes-API-app``
