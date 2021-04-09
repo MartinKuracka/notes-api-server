@@ -6,7 +6,7 @@ This server is to be used in conjunction with notes-API-app (https://martinkurac
 
 1. Clone this repository into Your new project folder using:
 
-  ``git clone https://github.com/MartinKuracka/notes-api-server.git``
+   ``git clone https://github.com/MartinKuracka/notes-api-server.git``
 
 2. CD into newly created ``notes-api-server`` folder
 
