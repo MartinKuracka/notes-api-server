@@ -1,6 +1,6 @@
 # notes-api-server
 
-This server is to be used in conjunction with notes-API-app. It has to be downloaded, initialised and run locally in order for it to function as intended - because it also includes mock DB for getting/submitting/editing/deleting notes. Server is statically set to PORT 3333, if You require different port, You can change it inside the ``server.js`` file.
+This server is to be used in conjunction with notes-API-app. It has to be downloaded, initialised and run locally in order for it to function as intended - because it also includes mock DB for getting/submitting/editing/deleting notes. Server is statically set to run on port 3333, if You require different port, You can change it inside the ``server.js`` file.
 
 # Install istruction
 
