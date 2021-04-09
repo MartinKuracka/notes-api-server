@@ -14,8 +14,12 @@ This server is to be used in conjunction with notes-API-app. It has to be downlo
 
 3. When inside that folder, run 
 
+   ``npm install``
+
+4. Now run the server:
+
    ``npm start``
 
-4. Now follow this link to the App to start using it
+4. Follow this link to the App to start using it
 
    https://martinkuracka.github.io/notes-API-app
