@@ -1,6 +1,6 @@
 # notes-api-server
 
-This server is to be used in conjunction with notes-API-app (https://martinkuracka.github.io/notes-API-app/). It has to be downloaded, initialised and run locally in order for it to function as intended - because it also includes mock DB for getting/submitting/editing/deleting notes.
+This server is to be used in conjunction with notes-API-app. It has to be downloaded, initialised and run locally in order for it to function as intended - because it also includes mock DB for getting/submitting/editing/deleting notes.
 
 # Install istruction
 
