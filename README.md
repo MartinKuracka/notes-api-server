@@ -18,4 +18,4 @@ This server is to be used in conjunction with notes-API-app (https://martinkurac
 
 4. Now follow this link to the App to start using it
 
-   ``https://martinkuracka.github.io/notes-API-app``
+   https://martinkuracka.github.io/notes-API-app
